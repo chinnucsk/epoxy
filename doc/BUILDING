@@ -1,0 +1,11 @@
+REQUIREMENTS:
+
+1. Erlang.
+
+Your system need to have erlang installed. See erlang.org for installation instructions.  On Mac OS X systems, use MacPorts.org
+
+BUILDING:
+
+Once erlang is installed, make sure that the command 'erl' is in your PATH. To build type:
+
+erl -make
